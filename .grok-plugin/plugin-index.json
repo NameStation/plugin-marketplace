@@ -651,8 +651,8 @@
       }
     },
     "namestation": {
-      "sha": "d7ff62cf4c447bac1af52448537693b31210077e",
-      "version": "1.2.1",
+      "sha": "1d9a070a405076566e6c352519b37f28f68393ee",
+      "version": "1.2.2",
       "components": {
         "mcpServers": [
           {
